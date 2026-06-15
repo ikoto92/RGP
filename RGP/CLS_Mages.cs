@@ -13,7 +13,6 @@ namespace RGP
         {
            GenererStats();
         }
-
         public override void GenererStats()
         {
             endurance = CLS_TiresDes.TiresDes(1, 10, new Random());
